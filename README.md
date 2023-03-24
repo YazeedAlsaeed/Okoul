@@ -1,14 +1,15 @@
-# okoul_project
+# Okoul contest
 
-A new Flutter project.
+A Flutter development contest to develop a full functional flutter app within 3 days. 
 
-## Getting Started
+## Brief
 
-This project is a starting point for a Flutter application.
+This app is a prayer reminder and calender app.
+It has many features as listed below:
 
-A few resources to get you started if this is your first Flutter project:
+- Ability to change the city
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
