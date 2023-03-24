@@ -2,16 +2,17 @@
 
 A Flutter development contest to develop a full functional flutter app within 3 days. 
 
-## Brief
+
+## Brief Description
 
 This app is a prayer reminder and calender app.
 It has many features as listed below:
 
-- Ability to change the city
+- Ability to change city at any moment
+- Ability to star the most favourate cities
+- An Athkar page with counter and setters
+- 
 
+This app includes a full GUI, You can check it out by visiting the following website:
 
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.figma.com/file/0fQfx6PKOkOBP03QCWYdy9/Prayer-App?t=CUdKpCQSnwmC6ffh-1
